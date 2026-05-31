@@ -1,0 +1,10 @@
+asmsort
+asmsort_debug
+
+*.o
+
+saida.csv
+
+.vscode/
+
+*~
